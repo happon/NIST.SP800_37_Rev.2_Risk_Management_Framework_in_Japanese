@@ -2,13 +2,13 @@
 ## RMFのステップと構造
 
 There are seven steps in the RMF; a preparatory step to ensure that organizations are ready to execute the process and six main steps. All seven steps are essential for the successful execution of the RMF. The steps are: 
-• Prepare to execute the RMF from an organization- and a system-level perspective by establishing a context and priorities for managing security and privacy risk.
-• Categorize the system and the information processed, stored, and transmitted by the system based on an analysis of the impact of loss.26 
-• Select an initial set of controls for the system and tailor the controls as needed to reduce risk to an acceptable level based on an assessment of risk. 
-• Implement the controls and describe how the controls are employed within the system and its environment of operation. 
-• Assess the controls to determine if the controls are implemented correctly, operating as intended, and producing the desired outcomes with respect to satisfying the security and privacy requirements. 
-• Authorize the system or common controls based on a determination that the risk to organizational operations and assets, individuals, other organizations, and the Nation is acceptable. 
-• Monitor the system and the associated controls on an ongoing basis to include assessing control effectiveness, documenting changes to the system and environment of operation, conducting risk assessments and impact analyses, and reporting the security and privacy posture of the system. 
+- Prepare to execute the RMF from an organization- and a system-level perspective by establishing a context and priorities for managing security and privacy risk.
+- Categorize the system and the information processed, stored, and transmitted by the system based on an analysis of the impact of loss.26 
+- Select an initial set of controls for the system and tailor the controls as needed to reduce risk to an acceptable level based on an assessment of risk. 
+- Implement the controls and describe how the controls are employed within the system and its environment of operation. 
+- Assess the controls to determine if the controls are implemented correctly, operating as intended, and producing the desired outcomes with respect to satisfying the security and privacy requirements. 
+- Authorize the system or common controls based on a determination that the risk to organizational operations and assets, individuals, other organizations, and the Nation is acceptable. 
+- Monitor the system and the associated controls on an ongoing basis to include assessing control effectiveness, documenting changes to the system and environment of operation, conducting risk assessments and impact analyses, and reporting the security and privacy posture of the system. 
 
 Figure 2 illustrates the steps in the RMF. The RMF operates at all levels in the risk management hierarchy illustrated in Figure 1. Chapter Three provides a detailed description of each of the tasks necessary to carry out the steps in the RMF. 
 
@@ -39,13 +39,13 @@ fig.4
 ## RMFのステップと構造
 
 RMFには、組織がプロセスを実行する準備を整えるための準備ステップと、6つの主要ステップの合計7つのステップがあります。7つのステップはすべて、RMFを成功させるために不可欠です。ステップは以下の通りです：
-• 組織レベルとシステムレベルの両方の視点から、セキュリティとプライバシーのリスクを管理するための文脈と優先順位を確立し、RMFの実行準備を行う。
-• 損失の影響分析に基づき、システムおよびシステムで処理、保存、送信される情報を分類する。26
-• システムのリスク評価に基づき、リスクを許容可能なレベルまで低減するために、システムに対する初期の制御措置を選択し、必要に応じて制御措置を調整する。
-• 制御を実施し、システムとその運用環境内で制御がどのように適用されているかを説明する。 
-• 制御が適切に実施され、意図したとおりに機能し、セキュリティとプライバシーの要件を満たす結果を生むかどうかを評価する。 
-• 組織の運用と資産、個人、他の組織、および国家に対するリスクが許容可能であると判断した場合、システムまたは共通制御を承認する。 
-• システムの有効性を評価し、システムおよび運用環境の変更を文書化し、リスク評価および影響分析を実施し、システムのセキュリティおよびプライバシーの状況を報告するなど、システムおよび関連する制御を継続的に監視する。
+- 組織レベルとシステムレベルの両方の視点から、セキュリティとプライバシーのリスクを管理するための文脈と優先順位を確立し、RMFの実行準備を行う。
+- 損失の影響分析に基づき、システムおよびシステムで処理、保存、送信される情報を分類する。26
+- システムのリスク評価に基づき、リスクを許容可能なレベルまで低減するために、システムに対する初期の制御措置を選択し、必要に応じて制御措置を調整する。
+- 制御を実施し、システムとその運用環境内で制御がどのように適用されているかを説明する。 
+- 制御が適切に実施され、意図したとおりに機能し、セキュリティとプライバシーの要件を満たす結果を生むかどうかを評価する。 
+- 組織の運用と資産、個人、他の組織、および国家に対するリスクが許容可能であると判断した場合、システムまたは共通制御を承認する。 
+- システムの有効性を評価し、システムおよび運用環境の変更を文書化し、リスク評価および影響分析を実施し、システムのセキュリティおよびプライバシーの状況を報告するなど、システムおよび関連する制御を継続的に監視する。
 
 図 2 は、RMF のステップを示しています。RMF は、図 1 に示すリスク管理階層のすべてのレベルで機能します。第 3 章では、RMF のステップを実行するために必要な各タスクについて詳しく説明します。
 
