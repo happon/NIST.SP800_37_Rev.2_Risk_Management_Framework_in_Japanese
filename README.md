@@ -1,2 +1,1 @@
-# NIST.SP800-37-Rev.2-Computer-Security-Incident-Handling-Guide-In-Japanese-
-NIST.SP800-61-Rev.2-Computer-Security-Incident-Handling-Guide-In-Japanese 
+# NIST.SP800-37_Rev.2_Risk_Management_Framework_in-Japanese
